@@ -1,0 +1,92 @@
+/* styles.css */
+
+/* General Styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #fffacd; /* Cream background */
+    color: #333; /* Black text color */
+}
+
+.header-content {
+    text-align: center;
+    padding: 2rem;
+    background-color: #8b0000; /* Dark red background for header */
+    color: #fff; /* White text color */
+    border-bottom: 4px solid #333; /* Dark border at the bottom of header */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Box shadow for subtle elevation */
+}
+
+header h1 {
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+    font-weight: bold; /* Bold font weight */
+}
+
+header p {
+    font-size: 1.5rem;
+    margin-top: 0;
+}
+
+header .btn {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1.2rem; /* Increased button font size */
+}
+
+header .btn:hover {
+    background-color: #555;
+}
+
+.section {
+    padding: 4rem 2rem;
+    text-align: center;
+}
+
+.section-content {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff8dc; /* Lighter cream background for section content */
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: #333; /* Black text color */
+}
+
+.section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    font-weight: bold; /* Bold font weight */
+}
+
+.section p {
+    font-size: 1.2rem;
+    margin-top: 0;
+    line-height: 1.8; /* Increased line height for better readability */
+}
+
+.contact-btn {
+    background-color: #4caf50; /* Green background for contact button */
+    font-size: 1.2rem; /* Increased button font size */
+}
+
+.contact-btn:hover {
+    background-color: #45a049;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
