@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bbhaskar03
+- 👋 Hi, I’m Bhavani
 
 <!---
 bbhaskar03/bbhaskar03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
